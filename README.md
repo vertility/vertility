@@ -5,35 +5,48 @@
   <h1>👋 heyo! i'm Vertility!</h1>
 </div>
 
-<p align="center">
-  <img align="left" width="300px" alt="Cat photo" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
+<hr>
 
-  your local software & minecraft plugin developer!
+<table width="100%">
+  <tr>
+    <td width="48%" valign="top">
+      <img width="100%" alt="cat photo" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
+    </td>
+    <td width="52%" valign="top" align="center">
+      <p>
+        your local software & minecraft plugin developer!
+      </p>
 
-  <br><br>
+      <br>
 
-  i build minecraft plugins, discord bots, and web projects.
+      <p>
+        i build minecraft plugins, discord bots, and web projects.
+      </p>
 
-  <br><br>
+      <br>
 
-  <a href="https://discord.com/users/1007876671606636635">discord</a> ~
-  <a href="https://github.com/vertility">github</a> ~
-  <a href="https://starnova.dev/">portfolio inspiration</a>
+      <p>
+        <a href="https://discord.com/users/1007876671606636635">discord</a> ~
+        <a href="https://github.com/vertility">github</a> ~
+        <a href="mailto:">email</a>
+      </p>
 
-  <br><br>
+      <br>
 
-  <a href="https://discord.com/users/1007876671606636635">
-    <img src="https://lanyard.cnrad.dev/api/1007876671606636635?hideTag=true" alt="Discord Presence">
-  </a>
+      <a href="https://discord.com/users/1007876671606636635">
+        <img width="100%" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/1007876671606636635?hideTag=true">
+      </a>
 
-  <br><br>
+      <br><br>
 
-  <a href="https://github-readme-streak-stats.herokuapp.com/">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vertility&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=435&card_height=175&background=302C33" alt="GitHub Streak">
-  </a>
-</p>
+      <a href="https://github.com/vertility">
+        <img width="100%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=vertility&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=435&card_height=175&background=302C33">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br clear="all">
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vertility" alt="Vertility Profile Views">
